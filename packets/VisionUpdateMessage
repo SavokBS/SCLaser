@@ -1,0 +1,11 @@
+24109
+
+ByteStream::writeVInt();
+ByteStream::writeVInt());
+ByteStream::writeVInt();
+ByteStream::writeVInt();
+ByteStream::writeBoolean();
+ByteStream::writeBoolean();
+BitStream::getByteArray();
+BitStream::getLength();
+ByteStream::writeBytes();
