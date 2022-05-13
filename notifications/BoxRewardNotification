@@ -1,0 +1,9 @@
+64
+
+ByteStream::writeInt();
+ByteStream::writeBoolean();
+ByteStream::writeInt();
+ByteStream::writeString();
+ByteStream::writeVInt();
+ByteStream::writeVInt();
+ByteStream::writeVInt();
