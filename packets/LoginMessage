@@ -1,7 +1,7 @@
 10101
 
 ID ByteStream::readLong();
-PassToken  ByteStream::readString();
+Token  ByteStream::readString();
 ClientMajor  ByteStream::readInt();
 ClientMinor  ByteStream::readInt();
 ClientBuild  ByteStream::readInt();
