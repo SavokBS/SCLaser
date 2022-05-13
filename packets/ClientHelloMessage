@@ -1,0 +1,10 @@
+10100
+
+ByteStream::readInt();
+ByteStream::readInt();
+ByteStream::readInt();
+ByteStream::readInt();
+ByteStream::readInt();
+ByteStream::readStringReference();
+ByteStream::readInt();
+ByteStream::readInt();
