@@ -1,0 +1,7 @@
+14369
+
+ByteStreamHelper::writeDataReference();
+ByteStream::writeBoolean();
+ByteStream::writeVInt();
+ByteStream::writeVInt();
+ByteStream::writeVInt();
