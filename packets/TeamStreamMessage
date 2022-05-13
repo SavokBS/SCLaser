@@ -1,0 +1,10 @@
+24131
+
+ByteStream::writeVInt();
+ByteStream::writeVInt();
+dudka = ByteStream::writeVInt(a1 + 2, v5);
+for ( i = 0; i != dudka; ++i )
+    {
+      ByteStream::writeVInt(a1 + 2, v9);
+      
+    }
