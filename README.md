@@ -1,3 +1,3 @@
 # SCLaser
 
-All Brawl Stars packets, commands, notifications structure.
+All Brawl Stars packets, commands, notifications structures.
