@@ -1,0 +1,30 @@
+10101
+
+ID ByteStream::readLong();
+PassToken  ByteStream::readString();
+ClientMajor  ByteStream::readInt();
+ClientMinor  ByteStream::readInt();
+ClientBuild  ByteStream::readInt();
+ResourceSha  ByteStream::readString();
+Device  ByteStream::readString();
+Language  ByteStream::readDataReference();
+DeviceLanguage  ByteStream::readString();
+OSVersion  ByteStream::readString();
+isAndroid  ByteStream::readBoolean();
+IMEI  ByteStream::readString();
+AndroidID  ByteStream::readString();
+isAdvertisingEnabled  ByteStream::readBoolean();
+AppleIFV  ByteStream::readString();
+RndKey  ByteStream::readInt();
+AppStore  ByteStream::readVInt();
+ClientVersion  ByteStream::readString();
+TencentOpenId  ByteStream::readString();
+TencentToken  ByteStream::readString();
+TencentPlatform  ByteStream::readVInt();
+DeviceVerifierResponse  ByteStream::readString();
+AppLicensingSignature  ByteStream::readString();
+DeviceVerifierResponse  ByteStream::readString();
+SupercellIdToken  ByteStream::readCompressedString();
+UpdateMaintenanceMode  ByteStream::readBoolean();
+YoozooOsdkTicket  ByteStream::readString();
+YoozooDeviceId  ByteStream::readString();
